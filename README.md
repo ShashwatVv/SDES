@@ -4,3 +4,6 @@ Simplified Data Encryption Standard: A simplified version of the DES encryption 
 ## NOTE:
 This is not meant to be used in current stage of cryptographic advancements. It is meant for analysis purposes only.
 
+### Feature/initial-stubs
+- contains the protoypes of the subcomponents
+- Architecture flow would be added
